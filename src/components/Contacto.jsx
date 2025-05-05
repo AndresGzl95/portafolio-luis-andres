@@ -88,7 +88,7 @@ function Contacto() {
                     </div>
                     <div className="contacto-info-item">
                         <FontAwesomeIcon icon={faPhone} className="contacto-info-icon" />
-                        <a href="tel:9631542887">963 154 2887</a>
+                        <a href="tel: +(52) 963-140-5039">963 154 2887</a>
                     </div>
                 </div>
             </div>
